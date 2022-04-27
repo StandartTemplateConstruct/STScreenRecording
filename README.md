@@ -1,4 +1,4 @@
-# ScreenrecordingAutolabeler
+# Screenrecording Mobile/Desktop Toolkit
 A toolkit for automatic labeling of the screen recordings
 
 
