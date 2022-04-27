@@ -5,14 +5,23 @@ A toolkit for automatic labeling of the screen recordings
 # Input
 
 - A directory with screenrecording of arbitrary sessions on mac OS
+- a screenshot
+
 
 # Output
 
+ - source code detection and extraction
+ - events
+ - etherium wallets
+ 
  - autolabeling of the applications on screen
  - autolabeling of the UI elements inside of the application windows
 
 
 # Tools
+## keylogger 
+
+## Generic screenshot containing useful data generator
 
 ## MacOSX application auto labeler
 
