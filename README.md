@@ -10,6 +10,13 @@ A toolkit for automatic labeling of the screen recordings
 
 # Output
 
+ - a video marked with activity
+   - Browser
+   - Video game
+   - Terminal
+   - IDE 
+
+
  - source code detection and extraction
  - events
  - etherium wallets
@@ -18,8 +25,13 @@ A toolkit for automatic labeling of the screen recordings
  - autolabeling of the UI elements inside of the application windows
 
 
+
 # Tools
 ## keylogger 
+
+## Macro player
+
+ - ROS interface to macro player
 
 ## Generic screenshot containing useful data generator
 
@@ -35,6 +47,9 @@ Creates random webpages, labels them, scrolls them, interacts with them
 
 ## Models
 
-https://github.com/open-mmlab/mmocr
+ - a model trained on the videos where user is installing an opensource software on the developer machine reading the intructions on the open source software website
+
+ - semantic text recognition model:
+   - https://github.com/open-mmlab/mmocr
 
 
