@@ -1,4 +1,5 @@
-# Screenrecording Mobile/Desktop Toolkit
+# AI for semantic recognizing of the users actions
+
 A toolkit for automatic labeling of the screen recordings
 
 
